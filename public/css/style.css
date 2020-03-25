@@ -143,7 +143,7 @@ textarea {
     top: 0;
     width: 100%;
     z-index: 998;
-    background-color: #2657ea;
+    background-color: #ffffff;
 }
 
 .menu-area {
@@ -175,7 +175,7 @@ textarea {
     display: block;
     font-size: 14px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(0, 0, 0);
     letter-spacing: 0;
     padding: 27px 36px;
     position: relative;
@@ -189,7 +189,7 @@ textarea {
     bottom: 22px;
     height: 2px;
     width: 0%;
-    background-color: #fff;
+    background-color: rgb(0, 0, 0);
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
