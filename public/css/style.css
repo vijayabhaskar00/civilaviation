@@ -143,7 +143,7 @@ textarea {
     top: 0;
     width: 100%;
     z-index: 998;
-    background-color: #272622;
+    background-color: #000000;
 }
 
 .menu-area {
@@ -1154,7 +1154,7 @@ END Contact Area
 .footer-area{
     height: 80px;
     text-align: center;
-    background-color: #2657ea;
+    background-color: #ff8819;
     display: flex;
     align-items: center;
 }
