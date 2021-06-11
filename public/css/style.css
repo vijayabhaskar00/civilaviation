@@ -747,7 +747,7 @@ END Testimonial Area
 .video-area {
 	text-align: center;
     position: relative;
-    background: url(//public/img/cc_assets/homebg.jpg) center center/cover no-repeat;
+    background: url(//public/img/cc_assets/background.png) center center/cover no-repeat;
     min-height: 400px;
 }
 
